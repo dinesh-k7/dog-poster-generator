@@ -1,0 +1,12 @@
+.poster-table {
+  justify-self: center;
+  .MuiTable-root {
+    .MuiTableCell-root {
+      padding: 12px !important;
+    }
+  }
+  .generate-button {
+    justify-self: center;
+    margin: 32px 0px;
+  }
+}

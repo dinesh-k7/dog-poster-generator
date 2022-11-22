@@ -1,0 +1,10 @@
+.nav-container {
+  display: flex;
+  flex-direction: row;
+  .MuiButtonBase-root {
+    margin-left: 32px !important;
+    p {
+      font-size: 18px;
+    }
+  }
+}

@@ -1,2 +1,2 @@
 # dog-poster-generator
-Simple React Application to display the poster based on Dog Breed/Sub-breed
+React Application with MUI and Redux toolkit to display the poster based on Dog Breed/Sub-breed 
